@@ -2,61 +2,61 @@
 
 <img src="C:\Users\thais\OneDrive\Documentos\Bootcamp QA\Imagens\Tripleten png.png">
 
-### Introdução à análise de QA
-- O que é análise de QA
-- Como criar testes para um site
-- O que fazer ao encontrar um defeito
-- Rastreamento de bugs
-
-### Design de Teste
-- Quais são os requisitos e objetos de teste
-- Como decompor os requisitos
-- Como lidar com áreas cinzentas
-- Como escolher valores de teste
-- Classes de equivalência e valores-limite
-- Como criar um checklist
+### Introduction to QA Analysis
+- What is QA Analysis
+- How to Create Tests for a Website
+- What to Do When You Find a Defect
+- Bug Tracking
   
-### Teste de Aplicativos Web
-- Estrutura do aplicativo web
-- Interfaco do usuário de um aplicativo web
-- Teste entre plataformas e navegadores
-- Teste de design web responsivo
-- Design de testes para testes de aplicativos web
+### Test Design
+- What Are Requirements and Test Objects
+- How to Decompose Requirements
+- How to Deal with Gray Areas
+- How to Choose Test Values
+- Equivalence Classes and Boundary Values
+- How to Create a Checklist
+  
+### Web Application Testing
+- Web Application Structure
+- Web Application User Interface
+- Cross-Platform and Browser Testing
+- Responsive Web Design Testing
+- Test Design for Web Application Testing
 
-### Teste de API
-- O que é uma API
-- Como testar uma API
-- O que é a solução de arquitetura REST
-- Como a arquitetura de um aplicativo com uma API e banco de dados é organizada 
+### API Testing
+- What is an API
+- How to Test an API
+- What is the REST Architecture Solution
+- How the Architecture of an Application with an API and Database is Organized
 
-### Tipos de Aplicativos Móveis
-- Diferenças entre aplicativos móveis e aplicativos web 
-- O que são emuladores e como usá-los nos testes
-- Selecionar uma configuração de sistema para um aplicativo
-- Testar um aplicativo móvel em diferentes plataformas
-- Coletar logs de um dispositivo
-- Testar versões atualizadas de um aplicativo móvel 
+### Types of Mobile Applications
+- Differences between mobile applications and web applications
+- What are emulators and how to use them in testing
+- Selecting a system configuration for an application
+- Testing a mobile application on different platforms
+- Collecting logs from a device
+- Testing updated versions of a mobile application 
 
-### Banco de dados e SQL
-- Diferentes tipos de sistemas operacionais
-- Como trabalhar com a linha de comando
-- Como se conectar a um servidor remoto
-- Como bancos de dados são estruturados
-- Como escrever suas primeiras solicitações SQL
-- Como agregar dados e vincular várias tabelas
-- Como agrupar e classificar dados em tabelas 
-- Como identificar conexões entre tabelas ao ler diagramas ER
-- Como juntar tabelas usando os métodos INNER JOIN e OUTER JOIN
-- Como buscar valores vazios e substrings em tabelas
-- Como combinar tabelas com os métodos UNION e UNION ALL
+### Databases and SQL
+- Different types of operating systems
+- How to work with the command line
+- How to connect to a remote server
+- How databases are structured
+- How to write your first SQL queries
+- How to aggregate data and link multiple tables
+- How to group and sort data in tables
+- How to identify connections between tables when reading ER diagrams
+- How to join tables using the INNER JOIN and OUTER JOIN methods
+- How to search for empty values ​​and substrings in tables
+- How to combine tables with the UNION and UNION ALL methods
 
-### Automação de Testes de Aplicativos Web
-- Criar variáveis e funções em Python
-- Escrever expressões e ciclos condicionais para criar ramificações de código
-- Trabalhar com estruturas de dados em Python, como listas, tuplas e dicionários
-- Criar um repositório Git para armazenar e gerenciar seu código
-- Gerenciar um repositório no GitHub
-- As vantagens da automação
-- Criar classes e objetos
-- Utilizar o Selenium
-- Modelo de Objeto de Página
+### Web Application Test Automation
+Create variables and functions in Python
+- Write conditional expressions and loops to create code branches
+- Work with Python data structures such as lists, tuples, and dictionaries
+- Create a Git repository to store and manage your code
+- Manage a repository on GitHub
+- The benefits of automation
+- Create classes and objects
+- How to use Selenium
+- Page Object Model
