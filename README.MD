@@ -51,7 +51,7 @@
 - How to combine tables with the UNION and UNION ALL methods
 
 ### Web Application Test Automation
-Create variables and functions in Python
+- Create variables and functions in Python
 - Write conditional expressions and loops to create code branches
 - Work with Python data structures such as lists, tuples, and dictionaries
 - Create a Git repository to store and manage your code
